@@ -1,6 +1,8 @@
 
 <div align="center">
-  ### ![](https://komarev.com/ghpvc/?username=your-github-dmitrysychev)
+    <div>
+        <img src="https://komarev.com/ghpvc/?username=your-github-dmitrysychev" />
+    </div>
 </div>
 
 <!--

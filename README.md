@@ -1,5 +1,5 @@
 
-<div class="visit-counter" align="center">
+<div align="center">
   ![](https://komarev.com/ghpvc/?username=your-github-dmitrysychev)
 </div>
 

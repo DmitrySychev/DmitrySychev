@@ -1,6 +1,6 @@
-![](https://komarev.com/ghpvc/?username=your-github-dmitrysychev)
-<p class="visit-counter" align="center">
 
+<p class="visit-counter" align="center">
+  ![](https://komarev.com/ghpvc/?username=your-github-dmitrysychev)
 </p>
 
 <!--

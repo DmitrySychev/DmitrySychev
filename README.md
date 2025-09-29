@@ -65,7 +65,7 @@
 
 ### `$ recent --projects`:
 ```
-🚗 ridementor.com - NYC's Premier Motorcycle Services Marketplace
+🚗 [RideMentor](https://ridementor.com ) - NYC's Premier Motorcycle Services Marketplace
 🛠️ Two-sided Rails marketplace with real-time messaging & booking
 ⚡ ActionCable WebSockets | Multi-tenancy | Secure payments
 🌟 Live in production serving the NYC motorcycle community

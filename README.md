@@ -65,18 +65,18 @@
 
 ### `$ recent --projects`:
 
-🚗 [RideMentor](https://ridementor.com) - NYC's Premier Motorcycle Services Marketplace
-🛠️ Two-sided Rails marketplace with real-time messaging & booking
-⚡ ActionCable WebSockets | Multi-tenancy | Secure payments
-🌟 Live in production serving the NYC motorcycle community
+- 🚗 [RideMentor](https://ridementor.com) - NYC's Premier Motorcycle Services Marketplace
+-  🛠️ Two-sided Rails marketplace with real-time messaging & booking
+- ⚡ ActionCable WebSockets | Multi-tenancy | Secure payments
+- 🌟 Live in production serving the NYC motorcycle community
 
 
 ### `$ contact --info`:
 
-📧 [dmitry.sychev@me.com](mailto:dmitry.sychev@me.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/dmitry-sychev/)
-💼 [Upwork]([https://www.linkedin.com/in/dmitry-sychev/](https://www.upwork.com/freelancers/~016a90f8faae426ef6))
-💬 Ready for your Rails migration project
+- 📧 [dmitry.sychev@me.com](mailto:dmitry.sychev@me.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dmitry-sychev/)
+- 💼 [Upwork](https://www.upwork.com/freelancers/~016a90f8faae426ef6)
+- 💬 Ready for your Rails migration project
 
 
 ### `$ exit`

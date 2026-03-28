@@ -73,7 +73,7 @@
 
 ### `$ contact --info`:
 
-- 📧 [dmitry.sychev@me.com](mailto:dmitry.sychev@me.com)
+- 📧 [dmitry.sychev@axiumfoundry.com](mailto:dmitry.sychev@axiumfoundry.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dmitry-sychev/)
 - 💼 [Upwork](https://www.upwork.com/freelancers/~016a90f8faae426ef6)
 - 💬 Ready for your Rails migration project
